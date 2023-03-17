@@ -1,4 +1,4 @@
-# Nikhil Kesarkar Portfolio
+#Poornachandra Kongara Portfolio
 
-https://bosnomer.github.io/nikhilkesarkarportfoliowebsite/ <br>
-LinkedIn: https://www.linkedin.com/in/nikhilkesarkar1998/
+https://poornachandra77.github.io/poornachandrakongaraportfolio/ <br>
+LinkedIn: https://www.linkedin.com/in/poornachandra-kongara/
